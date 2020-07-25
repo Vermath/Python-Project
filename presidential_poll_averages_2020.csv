@@ -17,8 +17,6 @@ cycle,state,modeldate,candidate_name,pct_estimate,pct_trend_adjusted
 2020,New Jersey,7/20/2020,Joseph R. Biden Jr.,55.06687,56.14979
 2020,New Hampshire,7/20/2020,Joseph R. Biden Jr.,49.09229,49.97018
 2020,Nevada,7/20/2020,Joseph R. Biden Jr.,47.5181,48.33257
-2020,National,7/20/2020,Joseph R. Biden Jr.,50.51602,50.41682
-2020,NE-2,7/20/2020,Joseph R. Biden Jr.,50.50487,51.15572
 2020,Montana,7/20/2020,Joseph R. Biden Jr.,41.22102,41.46415
 2020,Missouri,7/20/2020,Joseph R. Biden Jr.,44.05545,44.27506
 2020,Mississippi,7/20/2020,Joseph R. Biden Jr.,40.4169,40.87665
@@ -59,8 +57,6 @@ cycle,state,modeldate,candidate_name,pct_estimate,pct_trend_adjusted
 2020,New Jersey,7/20/2020,Donald Trump,36.36816,34.5406
 2020,New Hampshire,7/20/2020,Donald Trump,44.91923,42.12755
 2020,Nevada,7/20/2020,Donald Trump,42.4015,39.95015
-2020,National,7/20/2020,Donald Trump,41.64055,41.64071
-2020,NE-2,7/20/2020,Donald Trump,43.83271,43.12327
 2020,Montana,7/20/2020,Donald Trump,51.30564,50.79802
 2020,Missouri,7/20/2020,Donald Trump,49.11088,48.19504
 2020,Mississippi,7/20/2020,Donald Trump,52.48148,51.41027
